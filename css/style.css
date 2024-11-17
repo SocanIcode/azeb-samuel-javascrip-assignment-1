@@ -192,7 +192,7 @@ footer .copyright {
 /* footer section ends here*/
 /*slide start here*/
 .slides {
-  background-image: url("image/man-mountian-cover.jpg");
+  background-image: url("../image/man-mountian-cover.jpg");
   background-size: cover;
   height: 100vh;
   width: 100%;
