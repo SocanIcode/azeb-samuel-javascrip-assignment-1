@@ -1,2 +1,3 @@
-# azeb-samuel-javascrip-assignment-1
- 
+Javascript-assignment
+
+# javascript api
